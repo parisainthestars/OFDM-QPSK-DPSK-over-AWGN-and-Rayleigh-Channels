@@ -144,21 +144,6 @@ The comparison shows the main point of the simulation: even with the same SNR, t
 
 ---
 
-## Files
-
-```text
-.
-├── CA2_OFDM.m
-├── CA2_OFDM_Rayleigh_EQ.m
-├── README.md
-└── figures
-    ├── aa.png
-    ├── bb.png
-    └── cc.png
-```
-
----
-
 ## Tools
 
 - MATLAB
