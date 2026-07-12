@@ -7,12 +7,6 @@ The second version of the code also uses a one-tap MMSE equalizer for the Raylei
 
 ---
 
-## Repository Name Suggestion
-
-`ofdm-qpsk-dpsk-awgn-rayleigh`
-
----
-
 ## System Overview
 
 The simulated system follows this main chain:
